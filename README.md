@@ -13,12 +13,13 @@ This project demonstrates how to use CSS flexbox to create a modern and responsi
 ## Live Preview 
 ![bussines agency](./img/business-agency-preview.png)
 
-<a href="https://github.com/Ludmila-nus/header-bussines-agency" target="_blank">
+<a href="https://github.com/Ludmila-nus/header-business-agency" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIEW CODE&color=%237EDAD2&style=plastic&logo=github&logo-color=white"/>
 
 </a>  
-<a href="https://ludmila-nus.github.io/header-bussines-agency/" target="_blank">
+<a href="https://ludmila-nus.github.io/header-business-agency/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIEW WEBSITE&color=%237EDAD2&style=plastic&logo=wordpress&logo-color=white"/>
+    
 </a>
 
 ## Open to work
